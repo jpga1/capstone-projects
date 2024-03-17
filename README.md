@@ -1,3 +1,5 @@
+# Capstone
+
 My deep learning capstone projects from Houghton University.
 
 - Project 1: Implementing binary logistic regression with GPU.
@@ -6,13 +8,13 @@ My deep learning capstone projects from Houghton University.
 - Project 4: Implementing ResNet34 on Cifar_10.
 - Final project: Implementing AlexNet on Cifar_10.
 
-Features:
+## Features:
 
-Algorithms:
+### Algorithms:
 
 - Binary Logistic Regression
 
-Models:
+### Models:
 
 - CNN
 - VGG16
